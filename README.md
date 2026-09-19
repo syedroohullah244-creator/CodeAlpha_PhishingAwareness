@@ -34,42 +34,6 @@ CodeAlpha_PhishingAwareness/
 │   └── style.css
 └── js/
     └── script.js
-# PhishGuard - Phishing Awareness Training
-
-PhishGuard is an interactive phishing awareness website developed as part of the CodeAlpha Cyber Security Internship.
-
-The project teaches users how to identify phishing attacks, recognize suspicious messages, and follow safe online practices.
-
-## Features
-
-- Phishing awareness education
-- Email phishing example
-- Smishing (SMS phishing) example
-- Fake website/login page example
-- Red flag explanations
-- Interactive "Why is this suspicious?" sections
-- Phishing safety checklist
-- Interactive 5-question quiz
-- Automatic quiz scoring
-- Responsive website design
-- Back-to-top navigation
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-
-## Project Structure
-
-```text
-CodeAlpha_PhishingAwareness/
-├── index.html
-├── README.md
-├── css/
-│   └── style.css
-└── js/
-    └── script.js
 
 ## Purpose
 
