@@ -50,3 +50,8 @@ The project does not collect passwords, personal information, or real credential
 ## Internship
 
 Developed as part of the CodeAlpha Cyber Security Internship.
+## Project Demo
+
+Watch the project demonstration on YouTube:
+
+[▶️ Watch PhishGuard Demo](https://youtu.be/a1OZineCy0A)
